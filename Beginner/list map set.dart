@@ -13,7 +13,7 @@ void main() {
     print(item);
   });
 
-  Set<String> uniqueFruits = {"Apple", "Banana", "Mango", "Banana", "Orange"};
+  Set<String> uniqueFruits = {"Apple", "Banana", "Mango", "Orange"};
   print(uniqueFruits);
   uniqueFruits.add("Kiwi");
   uniqueFruits.add("Apple");

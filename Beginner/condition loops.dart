@@ -1,3 +1,4 @@
+//lops and conditions
 void main() {
   int num1 = 7;
   if (num1 % 2 == 0) {
